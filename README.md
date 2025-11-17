@@ -81,14 +81,6 @@ In `agent/config.py`, set your StormGlass API key:
 STORMGLASS_API_KEY = "YOUR_API_KEY_HERE"
 ```
 
-
-## 🔐 Environment Setup
-
-In `agent/config.py`, set your API key:
-
-```python
-STORMGLASS_API_KEY = "YOUR_API_KEY_HERE"
-```
 You must have a **StormGlass API Key** — create a free account at [stormglass.io](https://stormglass.io)
 
 ---
@@ -140,4 +132,10 @@ print(weather)
 
 ## 📧 Contact
 
-For questions or suggestions, feel free to reach out or open an issue on GitHub.
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [zouarimootez@gmail.com](mailto:zouarimootez@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/mootez-zouari](https://linkedin.com/in/mootez-zouari/)
+- 🌐 **Portfolio**: [mootezzouari.netlify.app](https://mootezzouari.netlify.app/)
+
+You can also open an issue on GitHub for bugs or feature requests.
